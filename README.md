@@ -71,8 +71,8 @@ The system manages data related to families, individuals, immunizations, pregnan
 |----------------------------------|------------------------------------------------------|
 | `create_tables_and_triggers.sql` | SQL script to create the database, tables, and triggers. |
 | `insert_data.sql`                | SQL script to populate the database with sample data.|
-| `/diagrams/er_diagram.png`       | Entity-Relationship diagram.                         |
-| `/diagrams/relational_schema.png`| Relational schema diagram with PKs and FKs.          |
+| `/diagrams/er_diagram.pdf`       | Entity-Relationship diagram.                         |
+| `/diagrams/relational_schema.pdf`| Relational schema diagram with PKs and FKs.          |
 | `/docs/ASHA_WORKER_DBMS_REPORT.pdf`   | Project report with schema, diagrams, and explanations.|
 
 ---
