@@ -73,7 +73,7 @@ The system manages data related to families, individuals, immunizations, pregnan
 | `insert_data.sql`                | SQL script to populate the database with sample data.|
 | `/diagrams/er_diagram.png`       | Entity-Relationship diagram.                         |
 | `/diagrams/relational_schema.png`| Relational schema diagram with PKs and FKs.          |
-| `/docs/DBMS_PROJECT_FINAL.pdf`   | Project report with schema, diagrams, and explanations.|
+| `/docs/ASHA_WORKER_DBMS_REPORT.pdf`   | Project report with schema, diagrams, and explanations.|
 
 ---
 
@@ -89,7 +89,7 @@ The system manages data related to families, individuals, immunizations, pregnan
 
 ## 📄 Documentation
 
-- 📑 [Project Report](./docs/DBMS_PROJECT_FINAL.pdf)
+- 📑 [Project Report](./docs/ASHA_WORKER_DBMS_REPORT.pdf)
 
 ---
 
